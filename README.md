@@ -1,1 +1,2 @@
-# pythonproject
+# Pong Game using Python
+
